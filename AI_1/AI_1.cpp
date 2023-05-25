@@ -6,6 +6,7 @@
 #include <cstdlib>
 #include <bitset>
 #include <algorithm>
+//
 using namespace std;
 //test
 double minim(vector <double>& fit)
